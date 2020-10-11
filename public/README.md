@@ -35,7 +35,7 @@ Actual time needed to complete: _____
 
 Add this information to your README.
 
-### Feature #1: Refactor the CSS 
+### Feature #1: Refactor the CSS
 
 #### Why are we implementing this feature?
 
